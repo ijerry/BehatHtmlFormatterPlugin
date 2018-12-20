@@ -6,7 +6,7 @@
  * Time: 10:45
  */
 
-namespace btstacc\BehatHTMLFormatter\Renderer;
+namespace blueday\BehatHTMLFormatter\Renderer;
 
 interface RendererInterface {
 

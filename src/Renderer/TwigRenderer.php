@@ -1,8 +1,8 @@
 <?php
 
-namespace btstacc\BehatHTMLFormatter\Renderer ;
+namespace blueday\BehatHTMLFormatter\Renderer ;
 
-use btstacc\BehatHTMLFormatter\Formatter\BehatHTMLFormatter;
+use blueday\BehatHTMLFormatter\Formatter\BehatHTMLFormatter;
 use Twig_Environment;
 use Twig_Loader_Filesystem;
 
@@ -10,7 +10,7 @@ use Twig_Loader_Filesystem;
  * Twig renderer for Behat report
  *
  * Class TwigRenderer
- * @package btstacc\BehatHTMLFormatter\Renderer
+ * @package blueday\BehatHTMLFormatter\Renderer
  */
 class TwigRenderer
 {

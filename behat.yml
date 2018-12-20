@@ -5,7 +5,7 @@ default:
         pretty: ~
 
     extensions:
-        btstacc\BehatHTMLFormatter\BehatHTMLFormatterExtension:
+        blueday\BehatHTMLFormatter\BehatHTMLFormatterExtension:
             name: html
             renderer: Twig
             file_name: index

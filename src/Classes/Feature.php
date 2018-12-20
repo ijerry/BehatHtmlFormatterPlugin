@@ -6,7 +6,7 @@
  * Time: 14:39
  */
 
-namespace btstacc\BehatHTMLFormatter\Classes;
+namespace blueday\BehatHTMLFormatter\Classes;
 
 
 class Feature
